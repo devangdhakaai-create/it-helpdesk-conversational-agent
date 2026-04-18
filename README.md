@@ -67,4 +67,4 @@ Check [console.groq.com/docs/deprecations](https://console.groq.com/docs/depreca
 > This project was built with AI-assisted development. If you need help building
 > agentic AI models or automation tools, connect with me on LinkedIn —
 > I'm happy to help for free in exchange for a professional connection.
-> **[Connect on LinkedIn →](https://www.linkedin.com/)**
+> **[Connect on LinkedIn →](https://www.linkedin.com/in/devang-dhaka-512859388/)**
